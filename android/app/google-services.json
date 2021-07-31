@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216530359011",
+    "project_id": "infotech-28ac5",
+    "storage_bucket": "infotech-28ac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216530359011:android:126bd74b9f152577586bd6",
+        "android_client_info": {
+          "package_name": "com.example.lilac_infotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216530359011-42ftshvd1g1n7spddchm05qt7lcmo1lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQKPoat_JC3WECNxAA9Ds1zW_Z8DGv8zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216530359011-42ftshvd1g1n7spddchm05qt7lcmo1lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
